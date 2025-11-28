@@ -215,6 +215,7 @@ export default function AddProductPage() {
                   htmlFor="image"
                   className="block text-sm font-medium text-gray-700 mb-2"
                 >
+                  
                   <FiUpload className="inline mr-1" />
                   Image URL *
                 </label>
